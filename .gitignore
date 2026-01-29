@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Django / Flask
+local_settings*
+local.settings*.json
+db.sqlite3
+
+# Azure Functions artifacts
+bin
+obj
+appsettings.json
+local.settings.json
+function-app.zip
+.python_packages
+
+# Azurite artifacts
+__blobstorage__
+__queuestorage__
+__azurite_db*__.json
+
+# Secrets and credentials
+credentials.json
+token.json
+*.pem
+*.key
+client_secret*.json
+KEYS.md
+
+# OS
+.DS_Store

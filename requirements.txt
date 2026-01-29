@@ -1,0 +1,8 @@
+azure-functions
+azure-functions-durable
+azure-identity
+azure-servicebus
+azure-cosmos
+sqlalchemy
+pyodbc
+openai
